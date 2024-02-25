@@ -38,10 +38,9 @@ const projectList = [
   },
   {
     title: "Spotify Clone",
-    description:
-    "A clone of the Spotify web player. Built with Node.js",
+    description: "A clone of the Spotify web player. Built with Node.js",
     url: "https://github.com/luisascharff/spotify-clone",
-  }
+  },
 ];
 
 const Portfolio = () => {
